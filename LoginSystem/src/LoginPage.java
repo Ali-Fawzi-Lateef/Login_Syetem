@@ -3,7 +3,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.util.HashMap;
-     
+
 public class LoginPage implements ActionListener {
 
     JFrame frame = new JFrame();
